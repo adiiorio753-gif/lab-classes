@@ -16,3 +16,6 @@ some simple code. See chapters one and three of the book.
 To use this project, create some Student objects, then create a LabClass object.
 Add the students to the class using the "enrolStudent" method. Print a class
 list.
+Question 22 its responding to the name I put for the first student
+Question 24 its telling you the number of student that are enrolled as students
+Question 30 some are byte, Short ,long, float, double, char, boolean
